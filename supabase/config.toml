@@ -1,0 +1,13 @@
+project_id = "srwkdnpplpqolbqtdcxm"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.business-planner]
+verify_jwt = false
+
+[functions.stock-market]
+verify_jwt = false
+
+[functions.property-designer]
+verify_jwt = false
